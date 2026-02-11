@@ -3,6 +3,7 @@ import { Link, useLocation } from 'react-router-dom'
 import { Menu, X } from 'lucide-react'
 
 const navigation = [
+  { name: 'DOWNLOAD', href: '/download' },
   { name: 'SERIES', href: '/series' },
   { name: 'WORLD', href: '/world' },
   { name: 'AUTHOR', href: '/author' },

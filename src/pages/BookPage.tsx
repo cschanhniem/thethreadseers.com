@@ -3,45 +3,37 @@ import { useParams, Link } from 'react-router-dom'
 // Book data from the series bible
 const bookData = {
   'book-one': {
-    title: 'The Awakening Thread',
+    title: 'The Thread Seers: Book One',
     subtitle: 'Book One of The Thread Seers',
-    blurb: `A literary masterpiece that weaves together the philosophical traditions of Buddhism, the cultural heritage of Asian diaspora communities, and the timeless human struggle between control and compassion.
+    blurb: `Teen artist Lyra Chen sketches “relationship maps” in the margins of her notebooks until the lines begin glowing in the air: luminous threads binding people, places, and secrets.
 
-When sixteen-year-old Lyra Chen inherits her family's ancient ability to perceive the luminous threads that connect all existence, she discovers a world where three millennia of cultural wisdom collide with contemporary crisis. From her great-great-grandmother's resistance work in 1943 Saigon to the hidden corridors of Threadweaver Academy, Lyra must navigate the tension between Eastern traditions of harmony and Western impulses toward control.
+Recruited to Threadweaver Academy, Lyra learns her gift has a name, and that the institution is failing as students collapse with their connections hollowed out by an ashen black-silver contamination.
 
-As Professor Marcus Harlow's grief-driven experiments threaten to unravel the very fabric of reality, Lyra faces an impossible choice: preserve her visual thread-sight or embrace a deeper, more profound communion with the Weave itself. Her decision will not only transform her own understanding of connection and sacrifice but reshape the future of Thread Seer education.
-
-This is literary fantasy at its finest—a work that honors cultural authenticity while exploring universal themes of love, loss, redemption, and the courage to heal rather than control. Built on the Buddhist foundation of dependent origination, the narrative demonstrates how individual transformation ripples through communities and how ancient wisdom can guide contemporary choices.`,
-    available: true,
+With her father dying and her mother’s disappearance tied to the Academy’s hidden extraction research, Lyra must choose what kind of power she will become: control, or communion.`,
     freeToRead: true,
-    reviews: [
-      {
-        text: "A masterwork of cultural integration and philosophical depth. The Thread Seers achieves what few fantasy novels dare attempt—authentic representation of Buddhist philosophy woven seamlessly into a compelling narrative. This is literature that educates as it entertains.",
-        author: "Literary Review Quarterly"
-      },
-      {
-        text: "From the resistance networks of 1943 Saigon to contemporary America, this series demonstrates extraordinary historical research and cultural sensitivity. The prose is lyrical, the characters complex, and the magic system philosophically grounded. A triumph.",
-        author: "Asian American Literature Review"
-      },
-      {
-        text: "Rarely does fantasy literature achieve such sophisticated integration of Eastern philosophy and Western narrative structure. The Thread Seers stands alongside the works of Ursula K. Le Guin in its thoughtful exploration of interconnectedness and moral complexity.",
-        author: "Philosophical Fiction Review"
-      }
+    updated: '2026-02-11',
+    downloads: [
+      { name: 'PDF', href: '/books/the_thread_seers.pdf' },
+      { name: 'EPUB3 (Recommended)', href: '/books/the_thread_seers_epub3.epub' },
+      { name: 'EPUB2', href: '/books/the_thread_seers_epub2.epub' },
+      { name: 'EPUB (Legacy)', href: '/books/the_thread_seers.epub' },
+      { name: 'Markdown', href: '/books/the_thread_seers.md' },
     ],
-    purchaseLinks: [
-      { name: 'Amazon', url: 'https://www.amazon.com/dp/B0FBHK972Q/' },
-      { name: 'Indigo', url: 'https://www.indigo.ca/en-ca/the-thead-seers/9ec6ef92-0904-3d7a-9a82-4aac0079ca1b.html' },
-      { name: 'Kobo', url: 'https://www.kobo.com/ww/en/ebook/the-thead-seers' },
-      { name: 'Google Play Books', url: 'https://play.google.com/store/books/details/LE_VIET_HONG_The_Thread_Seers?id=hpVfEQAAQBAJ&hl=en' },
-    ]
-  }
+    platformLinks: [
+      { name: 'Kindle', url: 'https://www.amazon.com/dp/B0FBHK972Q/' },
+      {
+        name: 'Google Play Books',
+        url: 'https://play.google.com/store/books/details/LE_VIET_HONG_The_Thread_Seers?id=hpVfEQAAQBAJ&hl=en',
+      },
+    ],
+  },
 }
 
 export default function BookPage() {
   const { bookSlug } = useParams<{ bookSlug: string }>()
   const book = bookData[bookSlug as keyof typeof bookData]
 
-  if (!book) {
+  if (!bookSlug || !book) {
     return (
       <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8 text-center">
         <h1 className="font-sans text-h1 font-light text-text-primary mb-6">Book Not Found</h1>
@@ -70,40 +62,52 @@ export default function BookPage() {
           <div className="aspect-[2/3] rounded-sm border border-text-secondary/20 overflow-hidden mb-8">
             <img
               src="/img/the_thread_seer_book1.jpg"
-              alt="The Awakening Thread - Book One of The Thread Seers"
+              alt="The Thread Seers: Book One"
               className="w-full h-full object-cover"
             />
           </div>
 
           {/* Action Buttons */}
           <div className="space-y-4">
-            {book.freeToRead && (
-              <a
-                href="https://www.amazon.com/dp/B0FBHK972Q/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block w-full minimal-button text-center text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-4 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300"
-              >
-                Read Sample on Amazon
-              </a>
-            )}
+            <Link
+              to={`/series/${bookSlug}/read/prologue`}
+              className="block w-full minimal-button text-center text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-4 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300"
+            >
+              Start Reading Online
+            </Link>
 
-            {book.available && (
-              <div className="space-y-2">
-                <p className="text-caption text-text-secondary font-sans tracking-wide text-center">
-                  Purchase Options
-                </p>
-                {book.purchaseLinks.map((link) => (
-                  <a
-                    key={link.name}
-                    href={link.url}
-                    className="block w-full minimal-button text-center text-text-body hover:text-accent-silver transition-all duration-300 border border-text-secondary/20 rounded-sm px-6 py-3 hover:border-accent-silver/30"
-                  >
-                    {link.name}
-                  </a>
-                ))}
-              </div>
-            )}
+            <div className="space-y-2">
+              <p className="text-caption text-text-secondary font-sans tracking-wide text-center">
+                Free Downloads (Updated {book.updated})
+              </p>
+              {book.downloads.map((item) => (
+                <a
+                  key={item.name}
+                  href={item.href}
+                  download
+                  className="block w-full minimal-button text-center text-text-body hover:text-accent-silver transition-all duration-300 border border-text-secondary/20 rounded-sm px-6 py-3 hover:border-accent-silver/30"
+                >
+                  {item.name}
+                </a>
+              ))}
+            </div>
+
+            <div className="space-y-2 pt-2">
+              <p className="text-caption text-text-secondary font-sans tracking-wide text-center">
+                Also on
+              </p>
+              {book.platformLinks.map((link) => (
+                <a
+                  key={link.name}
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block w-full minimal-button text-center text-text-body hover:text-accent-silver transition-all duration-300 border border-text-secondary/20 rounded-sm px-6 py-3 hover:border-accent-silver/30"
+                >
+                  {link.name}
+                </a>
+              ))}
+            </div>
           </div>
         </div>
 
@@ -116,47 +120,29 @@ export default function BookPage() {
             ))}
           </div>
 
-          {/* Reviews */}
-          {book.reviews && book.reviews.length > 0 && (
-            <div>
-              <h3 className="font-sans text-h3 font-medium text-text-primary mb-6">
-                Praise
-              </h3>
-              <div className="space-y-6">
-                {book.reviews.map((review, index) => (
-                  <blockquote key={index} className="border-l-2 border-accent-silver/30 pl-6">
-                    <p className="text-text-body italic mb-2">"{review.text}"</p>
-                    <cite className="text-caption text-text-secondary font-sans tracking-wide">
-                      — {review.author}
-                    </cite>
-                  </blockquote>
-                ))}
-              </div>
-            </div>
-          )}
-
           {/* Excerpt */}
           <div className="mt-12">
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-6">
-              Excerpt: The Convergence
+              Excerpt: The Bridge
             </h3>
             <div className="bg-background-secondary/30 rounded-lg p-8 border border-text-secondary/20">
               <div className="prose-dark">
                 <p className="italic text-text-secondary mb-4">
-                  From Chapter 35: "The Convergence"
+                  From Chapter 1: &ldquo;The Bridge&rdquo;
                 </p>
                 <blockquote className="text-text-body leading-relaxed space-y-4">
                   <p>
-                    "The threads sang to her now, not with the harsh discord of breaking, but with something deeper—a harmony that seemed to rise from the very foundation of existence. Lyra felt herself becoming a conduit, her body a bridge between the human world and the vast, living network of the Weave."
+                    She answered it with the small inner pressure she never named out loud and nudged the frayed edge
+                    toward center. The line responded instantly, too clean, like a latch that clicked shut under her
+                    thumb.
                   </p>
                   <p>
-                    "She understood, with a clarity that transcended sight, that this was what her great-great-grandmother Mei-Hua had known in those final moments in Saigon—that sometimes the greatest act of love is to let go of control, to trust in the wisdom of connection itself."
+                    &ldquo;I&rsquo;m sorry,&rdquo; Katie said. &ldquo;Me too,&rdquo; Zach said. Then he blinked at his
+                    own voice, startled. The apology didn&rsquo;t sound like his.
                   </p>
                   <p>
-                    "The silver light poured through her, carrying with it the accumulated wisdom of three thousand years of thread tradition. Korean geometric patterns, Indian philosophical methods, Chinese communion practices, African pattern-speaking, Indigenous dreamline tracing—all of it flowing together in a symphony of cultural knowledge that had been waiting for this moment, for this choice."
-                  </p>
-                  <p>
-                    "And in that moment of perfect communion, Lyra chose healing over control, connection over dominance, love over fear. The threads responded, weaving themselves into new patterns of possibility, and the Academy—the world itself—began to heal."
+                    Relief hit first. Then wrongness: thin and metallic, a coin in her palm she hadn&rsquo;t paid for.
+                    The line had steadied, but it hadn&rsquo;t chosen to.
                   </p>
                 </blockquote>
               </div>

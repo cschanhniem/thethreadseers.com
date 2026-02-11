@@ -4,9 +4,9 @@ const books = [
   {
     id: 1,
     slug: 'book-one',
-    title: 'The Awakening Thread',
+    title: 'The Thread Seers: Book One',
     subtitle: 'Book One of The Thread Seers',
-    blurb: 'Sixteen-year-old Lyra Chen has always seen the world differently. When she discovers she can perceive the invisible threads connecting all living things, she\'s thrust into the hidden world of Threadweaver Academy—where young Thread Seers learn to master extraordinary abilities. But someone is harvesting threads from the dimension itself, and Lyra must uncover the truth before the very fabric of reality unravels.',
+    blurb: 'Teen artist Lyra Chen sketches “relationship maps” in the margins of her notebooks until the lines begin glowing in the air: luminous threads binding people, places, and secrets. Recruited to Threadweaver Academy, Lyra learns her gift has a name, and that the institution is failing as students collapse with their connections hollowed out by an ashen black-silver contamination. With her father dying and her mother’s disappearance tied to the Academy’s hidden extraction research, Lyra must choose what kind of power she will become: control, or communion.',
     available: true,
     freeToRead: true,
     coverImage: '/img/the_thread_seer_book1.jpg',
@@ -114,14 +114,12 @@ export default function SeriesPage() {
                 {/* Action Buttons */}
                 <div className="flex flex-col sm:flex-row gap-4">
                   {book.freeToRead && (
-                    <a
-                      href="https://www.amazon.com/dp/B0FBHK972Q/"
-                      target="_blank"
-                      rel="noopener noreferrer"
+                    <Link
+                      to="/download"
                       className="minimal-button text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-3 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300 text-center"
                     >
-                      Read Sample
-                    </a>
+                      Download Free
+                    </Link>
                   )}
 
                   {book.available ? (
@@ -129,7 +127,7 @@ export default function SeriesPage() {
                       to={`/series/${book.slug}`}
                       className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300 text-center"
                     >
-                      Details & Purchase
+                      Details & Downloads
                     </Link>
                   ) : (
                     <span className="minimal-button text-text-secondary cursor-not-allowed text-center">
