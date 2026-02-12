@@ -47,7 +47,7 @@ export default function DownloadsPage() {
           Free Downloads
         </h1>
         <p className="text-lg sm:text-xl font-serif text-text-body leading-relaxed max-w-3xl mx-auto">
-          Download the complete book in your preferred format. No gate, no sample—this is the full text.
+          Download the complete book in your preferred format. No gate, no sample. This is the full text.
         </p>
       </div>
 
@@ -115,4 +115,3 @@ export default function DownloadsPage() {
     </div>
   )
 }
-

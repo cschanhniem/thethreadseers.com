@@ -13,7 +13,7 @@ export default function HomePage() {
 
           {/* Tagline */}
           <p className="text-xl sm:text-2xl font-serif text-text-body leading-relaxed mb-12 max-w-3xl mx-auto">
-            Teen artist Lyra Chen sketches “relationship maps” in the margins of her notebooks—until the lines begin
+            Teen artist Lyra Chen sketches “relationship maps” in the margins of her notebooks until the lines begin
             glowing in the air: luminous threads binding people, places, and secrets.
           </p>
 
@@ -48,7 +48,7 @@ export default function HomePage() {
         <div className="mt-20 max-w-4xl mx-auto">
           <div className="prose-dark text-center">
             <p className="text-lg leading-relaxed mb-8">
-              Recruited to Threadweaver Academy, Lyra learns her gift has a name—and that the institution is failing
+              Recruited to Threadweaver Academy, Lyra learns her gift has a name, and that the institution is failing
               as students collapse with their connections hollowed out by an ashen black-silver contamination.
             </p>
             <p className="text-lg leading-relaxed">

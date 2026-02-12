@@ -1,18 +1,18 @@
 ---
 title: The Thread Seers: Book One
 author: Le Viet Hong
-date: 2026-02-11
+date: 2026-02-12
 ---
 
 # Acknowledgments
 
-This book exists because of threads—quiet, stubborn—that bind me to those I love most.
+This book exists because of threads, quiet and stubborn, that bind me to those I love most.
 
 To my parents, who believed from the beginning. Your support became my strongest thread.
 
-To Katie, my partner in every adventure—thank you for standing beside me through challenge and celebration alike.
+To Katie, my partner in every adventure: thank you for standing beside me through challenge and celebration alike.
 
-To Mia and Lana, my brilliant daughters who teach me to see the world through wonder-struck eyes—your curiosity, creativity, and joy are woven into every page. May you follow the silver threads of your dreams, wherever they lead.
+To Mia and Lana, my brilliant daughters who teach me to see the world through wonder-struck eyes; your curiosity, creativity, and joy are woven into every page. May you follow the silver threads of your dreams, wherever they lead.
 
 And to you, dear reader, for lifting this book and joining the thread that connects us through story. Welcome to the Weave.
 
@@ -32,7 +32,7 @@ Below, Japanese soldiers patrolled the quays along the Saigon River. Boots on co
 Under those threads, Hậu Giang's currents ran heavier than water. Her grandmother had taught her to listen for them: the soul of a street, the gathered life of a community. Tonight the currents dragged, thick with hunger and sorrow, and still they sparked with refusal.
 
 A street remembers.
-Not the way a person remembers—no images, no narrative, no neat beginning and end—but the way a riverbed remembers a flood: as shape.
+Not the way a person remembers: no images, no narrative, no neat beginning and end. The way a riverbed remembers a flood: as shape.
 As altered capacity.
 As a groove worn by a thousand ordinary days of carrying each other.
 
@@ -40,7 +40,7 @@ Mei-Hua could feel where the currents used to run full: markets that had fed thr
 Now those same routes felt tightened around absence, the way muscle tightens around a bruise.
 The buildings still stood.
 The lanterns still lit.
-But the current underneath had been thinned, siphoned, starved—not only by missing food, but by missing trust.
+But the current underneath had been thinned, siphoned, starved, not only by missing food, but by missing trust.
 
 The occupiers understood this.
 Starve the current and you didn't have to shoot every body.
@@ -246,7 +246,8 @@ Lyra watched the tremor in his cup and did not argue.
 When he lifted the cup, his hand shook hard enough that tea trembled up the rim and left a dark ring on the table.
 
 Lyra's pencil paused.
-The line between them tightened—silver not in color but in insistence—and the part of her that wanted to be useful leaned into it before she decided.
+The line between them tightened, silver not in color but in insistence.
+The part of her that wanted to be useful leaned into it before she decided.
 
 The tremor eased.
 His fingers steadied for one breath, long enough to drink without spilling.
@@ -257,7 +258,7 @@ Warmth rose in Lyra's chest, quick and clean: *I helped.*
 Then a faint penny taste touched the back of her tongue, gone if she swallowed fast enough.
 
 Wei stared at his notes.
-"I was going to—" He blinked once, searching the air as if the missing word might be hanging there. "The term for... never mind."
+"I was going to..." He blinked once, searching the air as if the missing word might be hanging there. "The term for it. Never mind."
 He wrote a blank line and moved on, like you could leave a space in a sentence and come back later to fill it.
 
 Rain ticked against the window.
@@ -335,7 +336,7 @@ Lyra did not speak.
 
 "Informational meeting at Iris Bookstore. Saturday." He set the envelope on the table between them. "Your grandmother is listed as a contact."
 
-Even the refrigerator hum seemed to duck under the words.
+Even the refrigerator hum ducked under the words.
 
 "You knew," Lyra said.
 
@@ -365,7 +366,7 @@ Through the wall, her father moved around his study in stop-start passes.
 Cabinet. Desk. Sink. Cabinet again.
 His line felt thinner by the hour, stretched and stubborn, like wire that had decided not to snap in front of her.
 
-He coughed—once, twice—and the bond between them tugged like a thread caught under a door.
+He coughed once, twice, and the bond between them tugged like a thread caught under a door.
 
 Lyra set her pencil down.
 Without getting up, without touching anything but air, she pressed that small inner pressure again, the way she'd pressed in the art room.
@@ -377,7 +378,7 @@ On the other side of the wall, Wei's breathing went smoother for three counted b
 Relief warmed her palms.
 Then came the faint metallic hint again, like she'd licked a coin by accident.
 
-Wei said, muffled, "Where's my—"
+Wei said, muffled, "Where's my..."
 Silence.
 "Never mind," he added, the sentence arriving too flat.
 
@@ -395,7 +396,7 @@ It rang once.
 
 Lyra looked down at the page under her hand.
 
-"How did you -"
+"How did you..."
 
 "Because your mother asked that exact question at sixteen," Nai Nai said. "You can ask it over tea."
 
@@ -411,7 +412,7 @@ Nai Nai poured jasmine tea and watched Lyra hold the cup with both hands so the 
 
 On the table sat three things: Wei's Academy letter, Lin Chen's old sketch satchel, and a jade pendant Lyra had seen only once in childhood.
 
-> **[THREADWEAVER ACADEMY — INTAKE NOTICE | Family Intake]**
+> **[THREADWEAVER ACADEMY | INTAKE NOTICE | Family Intake]**
 >
 > Thus entered into record:
 > A detection event has been logged for Subject: Chen, Lyra.
@@ -680,7 +681,7 @@ Her father was getting worse.
 Her mother had left warnings in ink no one had acted on in time.
 
 Outside, someone laughed near the register like this was a normal Saturday.
-Lyra felt the reflex to answer it—then Wei's grip tightened, small and involuntary, and she swallowed the sound.
+Lyra felt the reflex to answer it, then Wei's grip tightened, small and involuntary, and she swallowed the sound.
 At Lyra's table, urgency sat in a folder with signatures.
 Under that, the memory of the silent snap stayed lodged in her ribs, sharp and unprovable.
 
@@ -868,7 +869,7 @@ On another screen, Ben collapsed again and sat up again. Alive, and not whole.
 
 Orientation in Westbrook had reached the predictable part: name badges, policy slides, polite anxiety. The Academy had rented the civic hall for intake day and dressed it in calm language.
 
-> **[INTAKE DAY — POLICY SLIDE (EXCERPT) | Civic Hall]**
+> **[INTAKE DAY | POLICY SLIDE (EXCERPT) | Civic Hall]**
 >
 > Thus entered into record:
 > "Threadweaver Academy respects consent and family judgment."
@@ -1177,7 +1178,7 @@ A harmony bridge waited at the next gate. It held only if tempo, structure, and 
 Milo carried lead rhythm.
 Eli locked interval math.
 Zara damped panic spikes in the group behind them.
-Lyra held the central amplitude and redistributed overflow when the bridge started to flicker.
+Lyra held the central amplitude and redistributed overflow when the bridge flickered.
 
 Halfway across, someone behind them stumbled and yanked the line sideways. The bridge sagged, light skittering along the edges like a warning.
 
@@ -1397,7 +1398,7 @@ At the top, in heavy type: *Magnus Conduit - Phase 1 Implementation.* Below it, 
 
 Lyra translated line by line:
 
-> **[BLUEPRINT — Magnus Conduit, Phase 1 | Signature: M. Harlow | Marginalia: Lin Chen]**
+> **[BLUEPRINT | Magnus Conduit, Phase 1 | Signature: M. Harlow | Marginalia: Lin Chen]**
 >
 > Thus entered into record:
 > *If this runs on force, it will keep feeding on students.*
@@ -1692,7 +1693,7 @@ Most returns were public theory papers and dead links, until one restricted inde
 
 She got eight lines, a partial schematic, and two phrases that would not leave her head.
 
-> **[RESTRICTED INDEX FRAGMENT — PARTIAL | auto-shutters triggered]**
+> **[RESTRICTED INDEX FRAGMENT | PARTIAL | auto-shutters triggered]**
 >
 > Thus entered into record:
 > *...controlled dimensional bleed...*
@@ -1705,7 +1706,7 @@ Security shutters dropped on the query. Her session died. The fragment stayed.
 
 At dawn the alarm chain started with a tone reserved for internal disappearance protocols.
 
-The notice named Elara Blackwood, third-year, advanced dynamics: last seen entering her locked dorm room at 23:47, with no exit record and no thread signature on morning sweep—blank where the system should have seen her.
+The notice named Elara Blackwood, third-year, advanced dynamics: last seen entering her locked dorm room at 23:47, with no exit record and no thread signature on morning sweep, blank where the system should have seen her.
 
 When staff forced the door, the room looked curated, not ransacked: wardrobe emptied, research notes gone, desk surface scrubbed to lacquer. Even her baseline resonance trace had been stripped from the monitor mesh.
 
@@ -1937,7 +1938,7 @@ Wei's gaze flicked to Lyra.
 "Neutral means what," he asked.
 
 Lyra took a breath and felt how badly her body wanted to decide for him because deciding would feel like control.
-Her mouth started to water with that faint coin-taste before she moved at all.
+Her mouth watered with that faint coin-taste before she moved at all.
 
 "It means if they do it *to* me," she said, keeping her voice steady, "it won't only change my signal. It'll change what the bond does when we touch it. It will hold. It will catch."
 
@@ -2148,7 +2149,7 @@ Pain tore up both arms, silver-burn lines brightening in real time beneath skin 
 
 His watch buzzed twice: strain crossed the safe line, then crossed it again.
 
-Kenji gasped, arched, then sagged as the torn pathways began to re-knit around the borrowed anchor.
+Kenji gasped, arched, then sagged as the torn pathways knit themselves back around the borrowed anchor.
 The bleed slowed.
 Vitals climbed one point at a time.
 
@@ -2394,7 +2395,7 @@ Eli flattened them carefully.
 The central chamber drawing showed one human anchor point, invasive stabilization lines, and automated restraint geometry.
 In Harlow's own margin notes:
 
-> **[HARLOW — MARGIN NOTES | Kyoto File]**
+> **[HARLOW | MARGIN NOTES | Kyoto File]**
 >
 > *Animus Argenti compatibility required.*
 > *Subject survival estimate: 73%.*
@@ -2409,7 +2410,7 @@ A second bundle mapped extraction taps across housing blocks, training rooms, an
 Zara opened a thin packet labeled Lin Chen.
 The first pages were method objections. Then ethics warnings. Then fear.
 
-> **[LIN CHEN — PACKET (EXCERPT) | Kyoto Files]**
+> **[LIN CHEN | PACKET (EXCERPT) | Kyoto Files]**
 >
 > *Marcus calls coercion prevention and sleeps on it.*
 > *He thinks enough power can bully restoration into happening.*
@@ -2790,7 +2791,7 @@ It read:
 > **[EMERGENCY ASSEMBLY NOTICE | Hall Seven]**
 >
 > Thus entered into record:
-> Emergency Assembly — Hall Seven — 08:00 — Mandatory.
+> Emergency Assembly | Hall Seven | 08:00 | Mandatory.
 > Reason: Southern Nexus strain; live demonstration required.
 > Selected students may be requested to assist stabilization.
 > Consent will be requested prior to stabilization contact.
@@ -2828,7 +2829,7 @@ She didn't let it become a command.
 
 A few students blinked like she'd asked them to stop having skin.
 
-Milo stepped forward and tapped a slow, low pattern against the doorframe—nothing pretty, just a frequency that made the room's edge find itself again.
+Milo stepped forward and tapped a slow, low pattern against the doorframe, nothing pretty, just a frequency that made the room's edge find itself again.
 The chatter softened by degrees.
 
 Eli held up the notice.
@@ -2850,7 +2851,7 @@ The room got smaller.
 The air got clearer.
 
 Lyra watched the ones who stayed.
-Hands still shaking. Faces still young. Fear still present—but no longer borrowed.
+Hands still shaking. Faces still young. Fear still present, but no longer borrowed.
 
 "If you stay," Lyra said, "this is what staying costs."
 She held the notice up with her thumb covering the neatest lines.
@@ -3171,8 +3172,8 @@ His mouth kept shaping the words. The sealed door did not move.
 
 Zara's voice went quieter. "I can still feel her. Faint. Moving."
 She closed her eyes as if that would make it cleaner.
-"She's braced," she said. "She's—"
-She swallowed. "She wants us to—"
+"She's braced," she said. "She's..."
+She swallowed. "She wants us to..."
 
 Milo's head snapped toward her. "Don't answer for her."
 He exhaled hard, voice still rough. "Tell me what you feel. Not what you need it to mean."
@@ -3235,7 +3236,7 @@ Dust slid from the cracked wall onto Zara's sleeve and she didn't brush it off.
 If the Academy could adapt under load, so could they.
 
 Wei met them outside the lower stairwell with Weaver and two security teams.
-He looked pale, but his eyes were clear in a way they hadn't been since Westbrook.
+He looked pale, but his eyes were clear, as they hadn't been since Westbrook.
 
 Eli didn't waste time on greetings.
 "She's on Sub-level 3," he said. "Harlow moved her into the Conduit lab."
@@ -3381,7 +3382,7 @@ Eli added the last.
 
 Lyra nodded once.
 "Ask first. Never seize." Lyra said.
-"And when we don't—"
+"And when we don't..."
 She looked at Milo first, because she owed him the cleanest version of the truth.
 "Stop," she said. "Name it. Ask what got taken. Offer repair in their terms. If the answer is not yet, we take not yet."
 She let the next line land without softening it.
@@ -3497,7 +3498,7 @@ On his console, the Syndicate channel blinked: external team en route. Dawn demo
 
 A second alert sat underneath it, quieter and worse.
 
-> **[COUNCIL COMPLIANCE — AUTO-ALERT | Sub-level 3 console]**
+> **[COUNCIL COMPLIANCE | AUTO-ALERT | Sub-level 3 console]**
 >
 > Unauthorized splice protocol logged. Review pending.
 > (Auto-generated; no human signature; review clock started.)
@@ -3744,7 +3745,7 @@ Eli glanced between his slate and the bag. "Every time you complain, you eat ano
 Lyra laughed once, real, and for a few minutes the fluorescent hum sounded like a kitchen fan instead of a warning tone.
 
 Then the building shuddered, subtle as a warning, and they all went quiet at the same time.
-Milo started to joke again, stopped midway through a sentence, and stared at the table like a word had dropped out of him.
+Milo tried to joke again, stopped midway through a sentence, and stared at the table like a word had dropped out of him.
 
 
 
@@ -3825,7 +3826,7 @@ Cables as thick as wrists ran from it into an old foundation conduit embedded in
 
 "They're forcing it active," Eli said. He braced the slate against his leg. "If they spike flow wrong, they tear a hole."
 
-Reality around the device started to misbehave.
+Reality around the device misbehaved.
 Colors bled at the edges.
 Dust lifted from the floor and hung for a beat, unwilling to decide where down was.
 The Weave bucked under it, pinned and furious.
@@ -3846,7 +3847,7 @@ Doing nothing would let the rift open and take the room.
 
 Lyra stepped forward and placed both palms on the old conduit regulator.
 
-She felt the old impulse to clamp down, hard and clean—the latch that made outcomes arrive too fast.
+She felt the old impulse to clamp down, hard and clean: the latch that made outcomes arrive too fast.
 She made herself unclench before it became an order.
 Under her palms, the conduit resisted, not refusal exactly, more like delay you had to respect.
 She offered a narrow corridor instead of a command.
@@ -4235,13 +4236,13 @@ It simply kept existing: pressure held in a shape that was not a cage and not a 
 It was a lie made structural.
 
 When she touched the Animus Argenti channel, she hadn't reached into a machine.
-She'd reached into the field underneath the machine—the thing the machine had been feeding on while calling it stabilization.
+She'd reached into the field underneath the machine: the thing the machine had been feeding on while calling it stabilization.
 The signatures weren't stacked inside it like prisoners.
 They were knotted against each other like people in a crush, each one trying to stay itself while pressure insisted there was no room for a self.
 
 For one sick heartbeat she couldn't find where Lyra ended.
 Her skin wasn't a border in there. Her name wasn't a lock. Her thoughts weren't private.
-There was only contact—too much, too fast—fear and hunger and numbness and rage packed together until they stopped being feelings and became weather.
+There was only contact, too much and too fast. Fear and hunger and numbness and rage packed together until they stopped being feelings and became weather.
 
 No matter how you sense it, Nai Nai had said, you cannot touch without being touched.
 
@@ -4278,7 +4279,7 @@ In the core she felt the opposite.
 Without a boundary there was no refusal.
 Without refusal there was no consent.
 Without consent there was no thread.
-And without a thread there was no one left to save—only pressure, undifferentiated and hungry, wearing borrowed faces.
+And without a thread there was no one left to save. Only pressure, undifferentiated and hungry, wearing borrowed faces.
 
 Seize, and you collapse that choice into your own hand.
 
@@ -4317,7 +4318,7 @@ To let the other pattern remain real, even when your fear wanted it to become a 
 
 Lyra let her own edges go soft enough to feel the pressure without becoming it.
 She did not dissolve.
-She chose—deliberately—to stay Lyra: one girl with blood in her mouth, Milo on the floor, and a building cracking under her feet.
+She chose, deliberately, to stay Lyra: one girl with blood in her mouth, Milo on the floor, and a building cracking under her feet.
 
 And she made that choice available to the signatures in the core.
 
@@ -4365,7 +4366,7 @@ Milo braced against a rail as resonance pressure spiked.
 
 Eli stared at the fracture map crawling across his slate.
 
-"Localized rifts are closing," he said. Then: "No — deeper faultline opening underneath them."
+"Localized rifts are closing," he said. Then: "No. A deeper faultline is opening underneath them."
 
 * * *
 
@@ -4566,7 +4567,7 @@ Measure. Model. Control variables. Pretend that if you stood far enough back, yo
 
 Inside the channel, that split failed.
 
-Lyra felt his mind reach for the familiar scaffolding—equations, load paths, baselines—and find nothing to brace against.
+Lyra felt his mind reach for the familiar scaffolding: equations, load paths, baselines. It found nothing to brace against.
 There was no outside.
 The Weave wasn't between him and her.
 It was the condition of them being two people at all.
@@ -4589,7 +4590,7 @@ The smell in the chamber changed from ozone to burnt sugar and copper, sweet and
 
 Milo pressed a hand to his ear. "The harmonics just shifted. No scream now. It's a chord."
 
-Wei's body began to phase at the edges, light replacing flesh in translucent layers.
+Wei's body phased at the edges, light replacing flesh in translucent layers.
 
 "Dad!"
 
@@ -4852,7 +4853,7 @@ One elder walked out before signing. Another signed and filed dissent in the sam
 
 * * *
 
-> **[EMERGENCY INQUIRY — TRANSCRIPT EXCERPT | Convocation Hall]**
+> **[EMERGENCY INQUIRY | TRANSCRIPT EXCERPT | Convocation Hall]**
 >
 > Thus entered into record:
 > The presiding elder asked, "Did you use force in Sub-level 7?"
@@ -4876,7 +4877,7 @@ One elder walked out before signing. Another signed and filed dissent in the sam
 After adjournment, Lyra requested five monitored minutes with Harlow.
 
 He looked smaller without the control room around him. Sleep deprivation had sharpened his face; guilt was still arriving.
-Thread-sight kept offering her an easy theft—reach, read, decide. She kept her hands on the table instead. Thread-silence, even here.
+Thread-sight kept offering her an easy theft: reach, read, decide. She kept her hands on the table instead. Thread-silence, even here.
 
 "I am not here to absolve you," Lyra said.
 "I'm here because I wake up in your room and I'm done paying rent there."
@@ -4974,7 +4975,7 @@ At the dedication, Weaver read a line from Wei Chen's final journal entry:
 "Stop sorting wisdom by accent. Teach the next generation to listen before they classify."
 
 Lyra stood with one hand on the plaque. The low, steady pressure of the rebuilt Weave rose through the floor.
-It touched back—warm as a palm pressed to stone, rough as healed skin.
+It touched back, warm as a palm pressed to stone, rough as healed skin.
 The old scream in the foundation wasn't gone. It had been compressed into a difficult, stubborn hum.
 
 * * *
@@ -5020,7 +5021,7 @@ He flinched, then held up his hand between them.
 Lyra nodded. "Can I?"
 After a beat, he nodded back.
 He offered his wrist, not his shoulder.
-Lyra took it with two fingers. The connection held—and snagged, rough, like thread drawn through scar tissue. She didn't tighten her grip.
+Lyra took it with two fingers. The connection held, then snagged, rough, like thread drawn through scar tissue. She didn't tighten her grip.
 
 Lyra looked at the stone and spoke without ceremony.
 "If I grab because it gets loud, pull me off."
@@ -5047,7 +5048,7 @@ The Great Loom Chamber no longer carried extraction pressure.
 
 It still carried memory.
 
-The Weave had changed texture. What used to feel like silk now felt like scar—fibrous, resistant, a seam that would hold only if you treated it like a seam.
+The Weave had changed texture. What used to feel like silk now felt like scar: fibrous, resistant, a seam that would hold only if you treated it like a seam.
 
 Residual black-silver contamination clung to the nexus stone. During storms, the old strain could still be felt in the walls.
 Under it ran a steady warmth that never answered.
@@ -5071,7 +5072,7 @@ At close, Weaver read from pages gone soft at the corners, the margins crowded w
 
 Someone laughed once, sharp, then stopped. The clerk wrote anyway.
 
-> **[NEXUS CONCORD — DRAFT CLAUSE SET (EXCERPT) | Great Loom Chamber]**
+> **[NEXUS CONCORD | DRAFT CLAUSE SET (EXCERPT) | Great Loom Chamber]**
 >
 > Thus entered into record:
 > Ask first. Never seize.
@@ -5100,7 +5101,7 @@ On storm nights, she still lost a few seconds to borrowed counts that were not h
 Twice that year she answered to Lin before she answered to Lyra.
 She kept a small card in her coat pocket anyway: name, date, and five lines in her own hand, rewritten until the paper went soft. On the reverse, two smaller ones.
 
-> **[WEAVE COVENANT — POCKET CARD | Lyra Chen]**
+> **[WEAVE COVENANT | POCKET CARD | Lyra Chen]**
 >
 > Thus entered into record:
 > Ask first. Never seize.
@@ -5172,7 +5173,7 @@ Inside, the first lesson began.
 Under the Academy foundation, currents moved the way they always had: slow, communal, older than any council vote.
 The threads above them did not judge.
 They did not forgive.
-They held what was asked of them and frayed what was seized, and they remembered everything—including the words people struck from the record and the names they tried to file away as loss.
+They held what was asked of them and frayed what was seized, and they remembered everything, including the words people struck from the record and the names they tried to file away as loss.
 
 Somewhere below the east room floor, Wei's steadiness answered a child's trembling hands without knowing her face.
 The warmth did not make a speech.

@@ -11,7 +11,7 @@ Recruited to Threadweaver Academy, Lyra learns her gift has a name, and that the
 
 With her father dying and her mother’s disappearance tied to the Academy’s hidden extraction research, Lyra must choose what kind of power she will become: control, or communion.`,
     freeToRead: true,
-    updated: '2026-02-11',
+    updated: '2026-02-12',
     downloads: [
       { name: 'PDF', href: '/books/the_thread_seers.pdf' },
       { name: 'EPUB3 (Recommended)', href: '/books/the_thread_seers_epub3.epub' },
