@@ -23,37 +23,31 @@ export default function AuthorPage() {
         <div className="lg:col-span-2">
           <div className="prose-dark">
             <p>
-              Le Viet Hong is a storyteller fascinated by the invisible connections that bind us all together.
-              Drawing inspiration from Buddhist philosophy, multicultural wisdom traditions, and the lived
-              experience of seeing the world differently, they craft narratives that explore themes of
-              belonging, identity, and the threads that weave through every human experience.
+              Le Viet Hong grew up between cultures, which is probably why he ended up writing a book
+              about the things that connect people across distance and difference. The Thread Seers
+              started as a question he couldn't stop thinking about: what if the bonds between people
+              were something you could actually see?
             </p>
 
             <p>
-              The Thread Seers series emerged from years of research into how different cultures understand
-              connection and interdependence. From Korean geometric patterns to Indian meditation techniques,
-              from Egyptian hieroglyphic systems to Indigenous dreamline traditions, the series weaves together
-              diverse approaches to perceiving the invisible bonds that unite us all.
+              The series took years of research—into Buddhist philosophy, into how different cultures
+              around the world have understood connection and interdependence, into the specific histories
+              of the traditions represented in the books. The Korean geometric patterns, the Indian
+              meditation techniques, the Yoruba thread-sensing practices—none of that is decoration.
+              Each tradition has its own logic and its own stakes.
             </p>
 
             <p>
-              At its heart, The Thread Seers is built on the Buddhist concept of dependent origination—the
-              understanding that all phenomena arise in dependence upon multiple causes and conditions. This
-              philosophical foundation creates a magic system where relationships themselves become the source
-              of power, and where true strength comes from understanding our interconnectedness.
+              The magic system is built on dependent origination, a Buddhist concept: nothing exists
+              independently, everything arises from causes and conditions. That idea shapes every part
+              of the story, from how thread-sight works to why extraction is destructive to what
+              Lyra ultimately has to learn about power.
             </p>
 
             <p>
-              Le Viet Hong believes that middle-grade readers are ready for complex themes presented with
-              respect and nuance. The Thread Seers doesn't shy away from difficult questions about ethics,
-              responsibility, and what it means to use power wisely. Instead, it trusts young readers to
-              engage with these concepts through the lens of adventure, friendship, and discovery.
-            </p>
-
-            <p>
-              When not writing, Le Viet Hong can be found researching cultural traditions, practicing
-              mindfulness meditation, and searching for the silver threads that connect every story to
-              every other story ever told.
+              He writes for young readers because he thinks they're ready for harder questions than
+              most books ask them. The Thread Seers doesn't simplify its ethics or pull its punches
+              about what happens when people treat relationships as resources.
             </p>
 
 

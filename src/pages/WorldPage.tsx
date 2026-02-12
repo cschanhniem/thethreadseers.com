@@ -9,11 +9,11 @@ export default function WorldPage() {
         </h1>
         <div className="prose-dark">
           <p className="text-xl leading-relaxed max-w-3xl mx-auto">
-            Enter a contemporary world where invisible threads of connection weave through reality itself.
-            Hidden beneath the surface of our everyday world lies the Thread Dimension—a living network
-            of relationships, emotions, and destinies that only the rare Thread Seers can perceive.
-            Built on the Buddhist foundation of dependent origination, this is a world where every connection
-            matters, and the threads that bind us all are as real as the air we breathe.
+            The world of The Thread Seers looks like ours, but it has an extra layer. Luminous threads
+            run between people, places, and ideas—visible only to a rare few. The Thread Dimension is
+            a living network with its own rules and, increasingly, its own will. The magic system is
+            grounded in the Buddhist concept of dependent origination: nothing exists in isolation,
+            and pulling on one thread moves everything it touches.
           </p>
         </div>
       </div>
@@ -29,18 +29,16 @@ export default function WorldPage() {
               The Weave
             </h3>
             <p>
-              The Thread Dimension exists as a parallel reality overlapping our physical world, where
-              connections between all living things manifest as luminous strands of energy. These threads
-              carry emotions, memories, and the essence of relationships themselves. The collective network
-              of all threads is known as the Weave—a vast, living ecosystem that shows signs of developing
-              its own consciousness and attempts at communication.
+              The Thread Dimension sits on top of the physical world. Connections between living things
+              show up as luminous strands—carrying emotions, memories, the actual substance of relationships.
+              Together, all these threads form the Weave: a network that behaves less like a system and more
+              like an organism. It's started showing signs of awareness, maybe even trying to communicate.
             </p>
             <p>
-              The Weave operates on principles of dependent origination, where every thread arises in
-              dependence upon multiple causes and conditions. No connection exists in isolation; each thread
-              is part of an intricate web where changes ripple outward, affecting the entire network. This
-              philosophical foundation makes the Thread Seers' magic system fundamentally about relationships
-              and interconnectedness.
+              Every thread arises from conditions and relationships—change one, and the effects ripple
+              outward through the network. Nothing in the Weave exists on its own. That's not just philosophy;
+              it's how the magic works. Pull a thread without understanding what it's connected to, and
+              you'll feel the consequences.
             </p>
 
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
@@ -80,10 +78,10 @@ export default function WorldPage() {
               Philosophical Foundations
             </h3>
             <p>
-              The Thread Seers series integrates Buddhist concepts of dependent origination (the twelve nidanas)
-              throughout its magic system and character development. This creates a cohesive thematic framework
-              where characters understand their abilities and relationships through the lens of interconnectedness
-              and the transformation of suffering into wisdom.
+              The magic system maps onto the twelve nidanas of dependent origination from Buddhist thought.
+              Characters don't just use thread abilities—they come to understand how suffering, attachment,
+              and perception feed into each other. The philosophical layer isn't separate from the plot;
+              it's the reason the plot works the way it does.
             </p>
           </div>
         </section>
@@ -95,9 +93,8 @@ export default function WorldPage() {
           </h2>
           <div className="prose-dark mb-6">
             <p>
-              Every Thread Seer has a unique way of perceiving and interacting with the Weave. Take this
-              interactive assessment to discover your primary thread abilities and learn which cultural
-              traditions align with your natural gifts.
+              Not all Thread Seers perceive the Weave the same way. Some see it, some hear it, some
+              feel it through their skin. Take the quiz to find out which type fits you.
             </p>
           </div>
           <ThreadSeerQuiz />
@@ -110,10 +107,10 @@ export default function WorldPage() {
           </h2>
           <div className="prose-dark">
             <p>
-              Thread perception and manipulation techniques have developed independently across cultures
-              throughout history, each offering unique approaches to understanding the Weave. These diverse
-              traditions are now integrated at Threadweaver Academy, creating a rich multicultural approach
-              to thread education.
+              People have been working with threads for thousands of years, in different places, using
+              different methods. These traditions developed independently and don't always agree with each
+              other. At Threadweaver Academy, they're taught side by side—sometimes productively,
+              sometimes not.
             </p>
 
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
@@ -175,10 +172,10 @@ export default function WorldPage() {
               Cultural Traditions
             </h3>
             <p>
-              The Academy integrates thread traditions from around the world: Korean geometric patterns,
-              Indian philosophical approaches, Egyptian hieroglyphic systems, African pattern-speaking,
-              and Indigenous dreamline tracing. This multicultural approach reflects the universal nature
-              of thread connections while honoring diverse ways of understanding the Weave.
+              The Academy teaches Korean geometric patterns, Indian philosophical methods, Egyptian
+              hieroglyphic systems, African pattern-speaking, and Indigenous dreamline tracing. Each
+              tradition has a different understanding of what threads are and how you should work with
+              them. Those disagreements aren't smoothed over—they drive much of the story's conflict.
             </p>
           </div>
         </section>

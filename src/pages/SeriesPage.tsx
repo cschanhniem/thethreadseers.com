@@ -16,7 +16,7 @@ const books = [
     slug: 'book-two',
     title: 'The Weaver\'s Shadow',
     subtitle: 'Book Two of The Thread Seers',
-    blurb: 'As Lyra develops her unique tactile communion with the Weave, new threats emerge from the shadows. Ancient thread traditions clash with modern methods, and the Academy faces its greatest challenge yet. The awakening network grows stronger, but so do those who would exploit its power.',
+    blurb: 'Lyra can no longer see the threads—but she can feel them. As she learns to trust a new kind of perception, old fractures inside the Academy crack open. Someone is selling thread techniques that were never meant to leave the school, and the cultural traditions Lyra has come to rely on are under threat from people who see them only as tools.',
     available: false,
     freeToRead: false,
   },
@@ -25,7 +25,7 @@ const books = [
     slug: 'book-three',
     title: 'The Convergence Protocol',
     subtitle: 'Book Three of The Thread Seers',
-    blurb: 'The thread dimension itself is evolving, developing consciousness beyond human understanding. As global thread phenomena threaten to expose the hidden world, Lyra and her friends must bridge ancient wisdom and modern innovation to prevent catastrophic dimensional collapse.',
+    blurb: 'Thread phenomena are going public. Strange lights over cities, mass emotional events with no explanation—the hidden world is becoming harder to hide. Lyra and the Quartet are caught between factions who want to reveal everything and those willing to do terrible things to keep the secret.',
     available: false,
     freeToRead: false,
   },
@@ -77,11 +77,11 @@ export default function SeriesPage() {
         </h1>
         <div className="prose-dark">
           <p className="text-xl leading-relaxed max-w-3xl mx-auto">
-            A literary fantasy masterpiece that weaves together three millennia of cultural wisdom in a narrative
-            that transcends genre boundaries. Following Lyra Chen from age 16 to 18 as she inherits her family's
-            ancient ability to perceive the luminous threads connecting all existence, this series honors the
-            philosophical traditions of Buddhism, the cultural heritage of Asian diaspora communities, and the
-            universal human struggle between control and compassion.
+            Lyra Chen is sixteen when she discovers the glowing lines she's always sketched in her notebooks
+            are real—threads of connection binding every living thing. Across seven books, she'll grow from
+            a girl hiding a strange gift into someone who must decide what that gift is for. The series
+            draws on Buddhist philosophy, Asian diaspora experience, and cultural traditions from around
+            the world to tell a story about power, family, and what we owe each other.
           </p>
         </div>
       </div>
@@ -160,33 +160,32 @@ export default function SeriesPage() {
         ))}
       </div>
 
-      {/* Literary Themes */}
+      {/* What the Series Is About */}
       <div className="mt-20">
         <h2 className="font-sans text-h2 font-normal text-text-primary mb-8 text-center luminous-text">
-          Literary Themes & Cultural Significance
+          What the Series Is About
         </h2>
         <div className="grid md:grid-cols-2 gap-8">
           <div className="prose-dark">
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Philosophical Foundation
+              Dependent Origination
             </h3>
             <p>
-              Built on the Buddhist concept of dependent origination (pratītyasamutpāda), the series explores
-              how all phenomena arise in dependence upon multiple causes and conditions. This philosophical
-              framework transforms the magic system from mere fantasy into a profound meditation on
-              interconnectedness and the nature of reality itself.
+              The magic system is rooted in the Buddhist idea that nothing exists on its own—everything
+              arises from conditions and relationships. That's not window dressing. It shapes how the
+              characters understand their powers, why extraction hurts, and what communion actually costs.
             </p>
           </div>
 
           <div className="prose-dark">
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Cultural Authenticity
+              Cultural Traditions
             </h3>
             <p>
-              From the resistance networks of 1943 Saigon to contemporary Asian American experiences,
-              the series demonstrates extraordinary historical research and cultural sensitivity. Each
-              thread tradition—Korean, Indian, Chinese, Egyptian, African, Indigenous—is portrayed
-              with respect and authenticity, creating a truly multicultural approach to fantasy literature.
+              The story starts in 1943 Saigon and lands in a Massachusetts boarding school where Korean,
+              Indian, Chinese, Egyptian, African, and Indigenous thread traditions are taught side by side.
+              Each tradition has its own methods, its own history, and its own arguments about what threads
+              are for.
             </p>
           </div>
 
@@ -195,20 +194,21 @@ export default function SeriesPage() {
               Healing vs. Control
             </h3>
             <p>
-              The central conflict between Professor Harlow's extractive approach and Lin Chen's communion
-              philosophy reflects broader themes about how we relate to power, nature, and each other.
-              The series advocates for healing over control, connection over dominance, and love over fear.
+              Professor Harlow extracts thread energy with machines. Lin Chen practiced communion—listening
+              to the Weave, working with it. That tension runs through everything: how do you use power
+              without hollowing out the thing you're drawing it from?
             </p>
           </div>
 
           <div className="prose-dark">
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Intergenerational Wisdom
+              Family and Inheritance
             </h3>
             <p>
-              Through Lyra's connection to her great-great-grandmother Mei-Hua and her grandmother Nai Nai,
-              the series explores how wisdom passes through generations, how cultural knowledge survives
-              trauma and displacement, and how young people can honor their heritage while forging new paths.
+              Lyra's great-great-grandmother Mei-Hua. Her grandmother Nai Nai. Her missing mother Lin.
+              The knowledge passed down through these women didn't survive by accident—it survived
+              displacement, war, and institutional silence. Lyra inherits all of it, including the
+              parts nobody explained.
             </p>
           </div>
         </div>

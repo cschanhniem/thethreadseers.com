@@ -3,15 +3,15 @@ import { Link } from 'react-router-dom'
 const newsData = [
   {
     slug: 'book-one-release',
-    title: 'The Awakening Thread Now Available',
+    title: 'Book One Is Out — And It\'s Free',
     date: '2024-01-15',
-    excerpt: 'The first book in The Thread Seers series is now available for purchase, and you can read the first two chapters free right here on the site.',
+    excerpt: 'The first book in The Thread Seers series is done and available as a free download. Full text, no paywalls.',
   },
   {
     slug: 'series-announcement',
     title: 'Introducing The Thread Seers',
     date: '2024-01-01',
-    excerpt: 'A new young adult fantasy series about the invisible connections that bind us all together, and the girl who can see them.',
+    excerpt: 'A fantasy series about a girl who can see the threads connecting people, the hidden school that trains her, and the question of what those connections are actually for.',
   },
 ]
 

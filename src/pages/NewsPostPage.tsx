@@ -2,82 +2,48 @@ import { useParams, Link } from 'react-router-dom'
 
 const newsData = {
   'book-one-release': {
-    title: 'The Awakening Thread Now Available',
+    title: 'Book One Is Out — And It\'s Free',
     date: '2024-01-15',
-    content: `I'm thrilled to announce that *The Awakening Thread*, the first book in The Thread Seers series, is now available for purchase!
+    content: `The first book in The Thread Seers series is done and available now. You can download the full book for free from this site, or pick it up on Kindle and Google Play Books.
 
-This has been a journey years in the making, and I'm so excited to finally share Lyra's story with the world. The Thread Seers series explores themes that are deeply personal to me—the invisible connections that bind us together, the power of empathy and understanding, and the courage it takes to embrace who we truly are.
+## What the Book Is
 
-## What You Can Expect
+Lyra Chen is sixteen. She sketches what she calls "relationship maps" in her notebook margins—lines between people, thick or thin depending on how connected they seem. Then the lines start glowing. Turns out she's a Thread Seer, someone who can perceive the actual connections between living things. She gets recruited to Threadweaver Academy, a hidden school inside a Massachusetts boarding school, where she's supposed to learn how to use her gift.
 
-*The Awakening Thread* introduces readers to Lyra, a seventeen-year-old girl who can see the silver threads that connect all living things. When her village is attacked by shadow creatures that feed on these very connections, Lyra must embrace her abilities and step into her destiny as one of the legendary Thread Seers.
+But students are collapsing. Their connections are being drained by something—an ashen contamination spreading through the thread network. Lyra's father is dying. Her mother disappeared years ago, and the trail leads straight back to the Academy and its research into thread extraction.
 
-The book explores themes of:
-- Finding your place in the world
-- The power of connection and empathy
-- Overcoming fear and self-doubt
-- The responsibility that comes with great power
+## Read the Whole Thing Free
 
-## Read Before You Buy
-
-I believe strongly that readers should be able to experience a story before committing to it. That's why the first two chapters of *The Awakening Thread* are available to read for free right here on this site. You can start reading immediately and get a feel for Lyra's world and voice.
-
-## Where to Get Your Copy
-
-*The Awakening Thread* is available in both digital and print formats from all major retailers:
-
-- Amazon (Kindle & Paperback)
-- Barnes & Noble (Nook & Paperback)
-- Kobo
-- Apple Books
-- And many more!
+The complete book is available as a free download in PDF, EPUB, and Markdown. No samples, no paywalls—just the full text. You can also read the first few chapters right here on the site if you want to try it in your browser first.
 
 ## What's Next
 
-I'm already hard at work on Book Two, *The Weaver's Shadow*, which will continue Lyra's journey as she learns to master her abilities and faces even greater challenges. The Thread Seers series is planned as a trilogy, with each book building on the last to create an epic story of connection, courage, and hope.
+Book Two, *The Weaver's Shadow*, is in progress. The series is planned as seven books following Lyra from age 16 to 18.
 
-Thank you for joining me on this journey. I can't wait to hear what you think of Lyra's story!
-
-Happy reading,
-Le Viet Hong`,
+— Le Viet Hong`,
   },
   'series-announcement': {
     title: 'Introducing The Thread Seers',
     date: '2024-01-01',
-    content: `Welcome to the world of The Thread Seers!
+    content: `This is a site for The Thread Seers, a fantasy series I've been working on for a while now. The first book is nearly ready.
 
-I'm Le Viet Hong, and I'm thrilled to introduce you to my debut young adult fantasy series. The Thread Seers is a story that's been living in my heart for years, and I'm finally ready to share it with the world.
+## Where It Came From
 
-## The Inspiration
+I kept thinking about the idea that connections between people might be something physical—something with weight and color and texture. Not a metaphor, but an actual dimension layered on top of ours. And if some people could see it, what would they do with that? What institutions would form around it? Who would try to exploit it?
 
-The idea for The Thread Seers came to me during a particularly difficult time in my life when I was feeling disconnected from the people around me. I started thinking about the invisible bonds that tie us together—the threads of love, friendship, shared experience, and empathy that create the fabric of human connection.
-
-What if those threads were real? What if some people could see them, manipulate them, even repair them when they were broken? And what would happen if something threatened to unravel that entire network of connection?
+The magic system is based on dependent origination, a concept from Buddhist philosophy—the idea that nothing exists independently. That felt like the right foundation for a story about what connections are and what happens when you treat them as a resource to extract.
 
 ## The Story
 
-The Thread Seers follows Lyra, a seventeen-year-old girl who has always been able to see the silver threads that connect all living things. In a world where this ability is feared and misunderstood, Lyra has learned to hide her gift. But when shadow creatures attack her village, feeding on the very threads she can see, hiding is no longer an option.
+Lyra Chen is sixteen and has always sketched the lines she sees between people. At Threadweaver Academy, she finds out her ability is real and rare. But the Academy has problems—students are losing their connections to something corrosive, and Lyra's missing mother was involved in the research that might have caused it.
 
-The series explores themes of:
-- Finding your identity and place in the world
-- The power of connection and empathy
-- Overcoming prejudice and fear
-- The responsibility that comes with unique abilities
-- The importance of hope in the face of darkness
+The series is planned as seven books, following Lyra from 16 to 18, and draws on thread traditions from Korean, Indian, Chinese, Egyptian, African, and Indigenous cultures. Each tradition has its own approach to the Weave, and those differences matter to the plot.
 
-## What Makes It Special
+## What's Here
 
-While The Thread Seers contains all the elements readers love in young adult fantasy—magic, adventure, romance, and coming-of-age themes—it's grounded in something very real: the human need for connection. The magic system is based on the bonds between people, making every relationship in the story meaningful and every loss genuinely felt.
+I'll use this space for updates as the book and series develop. The first book will be available for free when it launches—full text, no catches.
 
-## Coming Soon
-
-The first book, *The Awakening Thread*, will be available soon. I'll be sharing more details about the release date, cover reveal, and where you can get your copy in the coming weeks.
-
-In the meantime, I'll be using this space to share more about the world of The Thread Seers, the characters you'll meet, and the journey of bringing this story to life.
-
-Thank you for being here at the beginning of this adventure. I can't wait to share Lyra's story with you!
-
-Le Viet Hong`,
+— Le Viet Hong`,
   },
 }
 
